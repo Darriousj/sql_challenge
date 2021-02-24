@@ -3,6 +3,6 @@ Research project on employees of a corporation from the 1980s and 1990s. All tha
 to design the csv's into tables for SQL analysis.
 
 Competencies:
-Data Engineering
+Data Engineering and
 Data Analysis
 
